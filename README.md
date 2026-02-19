@@ -1,7 +1,6 @@
 [<img align="right" width="500" alt="" src="/github-metrics.svg">](/github-metrics.svg)
 ### <ins>Whoami</ins>
-Hello, I'm Max.
-French developer since 2019.
+Hello, I'm Max, a French developer since 2019.
 Currently a student in Software and Web development in the University Lyon 1 in France.
 
 __My personnal website:__ *[mlepetit.com](https://mlepetit.com)*
